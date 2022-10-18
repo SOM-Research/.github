@@ -5,7 +5,7 @@
 
 🌈 We welcome contributions to any repository, but because we have repositories with their own nature, please review their individual contribution guidelines.
 
-👩‍💻 To know the maintenance status of our toos please check [this list](https://som-research.uoc.edu/research-tools/)
+👩‍💻 To know the maintenance status of our tools please check [this list](https://som-research.uoc.edu/research-tools/)
 
 🍿 Fun fact: SOM is the Catalan word to say "We are"
 
