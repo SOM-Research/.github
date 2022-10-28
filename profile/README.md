@@ -3,7 +3,7 @@
 
 🙋‍♀️ This is the GitHub organization of the [SOM Research Lab](https://som-research.uoc.edu/), a research team of the [Internet Interdisciplinary Institute (IN3)](https://www.uoc.edu/portal/es/in3/index.html), at the [Open University of Catalonia (UOC)](https://www.uoc.edu)
 
-🌈 We welcome contributions to any repository, but because we have repositories with their own nature, please review their individual contribution guidelines.
+🌈 We welcome contributions to any repository, but as we have repositories with their very own nature, please review their individual contribution guidelines. Apart from the typical `README.md` file, we have tried to add `CONTRIBUTING.md`, `GOVERNANCE.md`, and `CODE_OF_CONDUCT.md` files whenever possible.
 
 👩‍💻 To know the maintenance status of our tools please check [this list](https://som-research.uoc.edu/research-tools/)
 
